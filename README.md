@@ -39,3 +39,5 @@ import Link from 'next/link'
 
   8. position ko abslute krna zaroor hota hy q k jub aap ye nhi krthy hy tho width ya margin detay time oss k sath dosri wali cheez jo hy aghy piche hoti hy etc. tho phir aap apne oss cheez ko abslute kr sakty hy position etc. simple.
   9. aap ko Link k andar href dena hota hy warna phir aap k pass error show hoga etc.
+
+  10. yaha pr hum ne pre tag ka b use krliya hy jiss me aap jaise hi content likthy hy wo wese hi print krdeta hy agr oss me spaces ho ya phir na ho etc. ye html ka tag hy etc. <pre> <p>Hello     world </p> </pre>
