@@ -4,18 +4,19 @@ import Link from 'next/link'
 const LeftSide = () => {
   return (
     <>
+    
    
        <img
       src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png"
       width={75}
       height={75}      alt="Picture of the author"
-      className="ml-[100px] mt-[50px]"
+      className="ml-[100px] mt-[35px] fixed"
     />
     
-    <br /> <br />
+    <br /> <br /> <br /> <br /><br /><br />
     {/* left side main section with icons and options */}
 
-    <div className="ml-[120px]">
+    <div className="ml-[120px] fixed">
        <div className='inline-block mb-2 ml-[-10px]'>
          <img src="https://static.thenounproject.com/png/3574480-200.png" width={42} height={42} className='inline-block'/>
        <Link href="/dashboard" className='ml-[5px] mb-[50px]'>Home</Link>
@@ -51,7 +52,7 @@ const LeftSide = () => {
        <Link href="/dashboard" className='ml-[6px] mb-[50px]'>More</Link>
        </div>
        <br /> <br /> <br />
-       <button type="button" className=" ml-[8px] text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-15 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Tweet</button>
+       <button type="button" className=" ml-[-6px] text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-15 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Tweet</button>
 
     </div>
 

@@ -4,7 +4,7 @@ import Link from "next/link"
 const RightSide = () => {
     return (
         <>
-            <div className="float-right mr-[50px] mt-[-480]">
+            <div className=" fixed float-right ml-[1250px] mt-[-125] ">
                 <img src="https://static-00.iconduck.com/assets.00/search-icon-2048x2048-cmujl7en.png"
                     width={20}
                     height={20}
