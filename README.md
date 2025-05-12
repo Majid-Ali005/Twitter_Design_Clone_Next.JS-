@@ -37,4 +37,5 @@ import Link from 'next/link'
 
 
 
-  src="https://static.thenounproject.com/png/5209-200.png" width={25} height={25}
+  8. position ko abslute krna zaroor hota hy q k jub aap ye nhi krthy hy tho width ya margin detay time oss k sath dosri wali cheez jo hy aghy piche hoti hy etc. tho phir aap apne oss cheez ko abslute kr sakty hy position etc. simple.
+  9. aap ko Link k andar href dena hota hy warna phir aap k pass error show hoga etc.

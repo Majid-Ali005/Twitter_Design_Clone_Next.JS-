@@ -16,7 +16,7 @@ const LeftSide = () => {
     {/* left side main section with icons and options */}
 
     <div className="ml-[120px]">
-       <div className='inline-block mb-2 ml-[-10px]  hover:bg-gray-400 px-4 w-[140] rounded-4xl'>
+       <div className='inline-block mb-2 ml-[-10px]'>
          <img src="https://static.thenounproject.com/png/3574480-200.png" width={42} height={42} className='inline-block'/>
        <Link href="/dashboard" className='ml-[5px] mb-[50px]'>Home</Link>
        </div>
