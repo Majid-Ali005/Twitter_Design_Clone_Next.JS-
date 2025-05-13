@@ -64,25 +64,25 @@ className="ml-4 mt-[-50px]"
     <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
     <center>
       <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px]   inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px]  inline-block"
     />
@@ -117,25 +117,25 @@ className="rounded-2xl"
 {/* 2 card */}
  <center>
       <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px] mt-[5px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
@@ -146,17 +146,17 @@ className="rounded-2xl"
 
 {/* 2 card */}
  <img 
-src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
-width={50}
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7j9IDpZsbq4HghrNPneZustxYupRgrt0oQ&s"
+width={45}
 className="ml-4 mt-[-50px]"
 />
 
-    <h1 className="ml-[75px] font-bold mt-[-45px]">What's happening 1</h1>
+    <h1 className="ml-[75px] font-bold mt-[-45px]">Jamshad Khan</h1>
     <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
 
 <center>
   <img
-src="https://thumbs.dreamstime.com/b/information-technology-text-vintage-businessman-office-calculator-94758344.jpg"
+src="https://t4.ftcdn.net/jpg/04/26/71/99/360_F_426719952_WtHWVePXzO2iBOdAX5IjGyCumcgj467Q.jpg"
 width={690}
 height={50}
 className="rounded-2xl"
@@ -165,25 +165,25 @@ className="rounded-2xl"
 
  <center>
       <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px] mt-[5px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
@@ -194,17 +194,17 @@ className="rounded-2xl"
 {/* 3 card */}
 
  <img 
-src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5nvlmwygLKlmp7aC6rEIPSgNEcTLbi1TV5P1gVU-LSwImRRp9CzMZywB1PPC9JjeFWNU&usqp=CAU"
 width={50}
 className="ml-4 mt-[-50px]"
 />
 
-    <h1 className="ml-[75px] font-bold mt-[-45px]">What's happening 1</h1>
+    <h1 className="ml-[75px] font-bold mt-[-45px]">Ghafoor Ali</h1>
     <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
 
 <center>
   <img
-src="https://thumbs.dreamstime.com/b/information-technology-text-vintage-businessman-office-calculator-94758344.jpg"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_tVQ__3QxnRjXd2JSAdTvaNPISHJwKlujg&s"
 width={690}
 height={50}
 className="rounded-2xl"
@@ -212,26 +212,26 @@ className="rounded-2xl"
 </center>
 
  <center>
-      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+     <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px] mt-[5px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
@@ -240,17 +240,17 @@ className="rounded-2xl"
     <br /> <br /> <br />
 
      <img 
-src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
+src="https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png"
 width={50}
 className="ml-4 mt-[-50px]"
 />
 
-    <h1 className="ml-[75px] font-bold mt-[-45px]">What's happening 1</h1>
+    <h1 className="ml-[75px] font-bold mt-[-45px]">Uzair Ahmed</h1>
     <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
 
 <center>
   <img
-src="https://thumbs.dreamstime.com/b/information-technology-text-vintage-businessman-office-calculator-94758344.jpg"
+src="https://i.pinimg.com/736x/14/9a/ed/149aed7b61feaaa0233aeca73aca7788.jpg"
 width={690}
 height={50}
 className="rounded-2xl"
@@ -258,26 +258,26 @@ className="rounded-2xl"
 </center>
 
  <center>
-      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+     <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px] mt-[5px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
@@ -295,7 +295,7 @@ className="ml-4 mt-[-50px]"
 
 <center>
   <img
-src="https://thumbs.dreamstime.com/b/information-technology-text-vintage-businessman-office-calculator-94758344.jpg"
+src="https://w0.peakpx.com/wallpaper/390/568/HD-wallpaper-artificial-intelligence-background-vectors-stock-psd-vision.jpg"
 width={690}
 height={50}
 className="rounded-2xl"
@@ -304,25 +304,25 @@ className="rounded-2xl"
 
  <center>
       <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1_-4h5jYag5-oFVZkd1STo0R80zkQhNgyg&s"
     width={20}
     className="ml-[-px] mt-[5px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8-zUbnQLoMgKbCEDlkT4yjOP26Z921tdm_F2lGwiwpn3XF0DtbBIbDEgrl-k0Y8QTNY&usqp=CAU"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
-    width={20}
+    src="https://st4.depositphotos.com/38837296/39706/v/450/depositphotos_397064518-stock-illustration-heart-rate-monitor-icon-vector.jpg"
+    width={30}
     className="ml-[200px] mt-[5px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsjwB3Eh9B7vRn0KAV7F2x-C1-_vIE1T26Q&s"
     width={20}
     className="ml-[200px] mt-[5px]  inline-block"
     />
