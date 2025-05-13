@@ -51,3 +51,8 @@ import Link from 'next/link'
   <Link href="/blog" className='ml-[6px] mb-[50px]'>Explore</Link>
   ```
   - kuch iss trha se aap oss folder ko phir use kr sakty hy.
+
+
+  Final Design
+
+  ![alt text](image-1.png)
