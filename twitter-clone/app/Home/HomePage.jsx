@@ -52,8 +52,45 @@ className="ml-4"
 
 {/* third */}
 
-<div className="mt-[56px] w-[860px] h-[50px] border-b-1 border-gray-300">
-    <h1>Hello</h1>
+<div className="mt-[56px] w-[860px] h-[100px] border-b-1 border-gray-300">
+
+<img 
+src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
+width={50}
+className="ml-4 mt-[-50px]"
+/>
+
+    <h1 className="ml-[75px] font-bold mt-[-45px]">What's happening</h1>
+    <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
+    <center>
+      <img 
+    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    width={20}
+    className="ml-[-px]   inline-block"
+    />
+
+    <img 
+    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    width={20}
+    className="ml-[200px]  inline-block"
+    />
+
+     <img 
+    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    width={20}
+    className="ml-[200px]  inline-block"
+    />
+
+     <img 
+    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    width={20}
+    className="ml-[200px]  inline-block"
+    />
+    </center>
+
+
+    
+
 </div>
 
 {/* fourth */}
