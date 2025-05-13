@@ -20,31 +20,31 @@ className="ml-4"
 
     <h1 className="ml-[75px] mt-[-25px]">What's happening</h1>
 
-    <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+   <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdjtIVzl0sGEpTTDXxH8lgzUgcCebiKNdAg&s"
     width={20}
-    className="ml-5 mt-9 inline-block"
+    className="ml-[40px] mt-[30px]  inline-block"
     />
 
     <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNE7viOehKqus_pq0saGiLDngFdoJNhmhkA&s"
     width={20}
-    className="ml-5 mt-9 inline-block"
+    className="ml-[25px] mt-[30px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://www.pngplay.com/wp-content/uploads/8/Upload-Icon-Logo-Transparent-File.png"
     width={20}
-    className="ml-5 mt-9 inline-block"
+    className="ml-[25px] mt-[30px]  inline-block"
     />
 
      <img 
-    src="https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnGAUoXn5fyz799ghz4GdAFkCFp2Lryh9cO_lZ-lrhC_t-DH5fjq-51Fv6j2GI9tX7wTM&usqp=CAU"
     width={20}
-    className="ml-5 mt-9 inline-block"
+    className="ml-[25px] mt-[30px]  inline-block"
     />
 
-    <button type="button" className=" ml-[550px] mt-5 absolute text-white bg-indigo-500 hover:bg-black-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-5 py-1.5 me-2 mb-2 dark:bg-black dark:hover:bg-black-700 focus:outline-none dark:focus:ring-blue-800">Follow</button>
+    <button type="button" className=" ml-[500px] mt-5 absolute text-white bg-indigo-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-5 py-1.5 me-2 mb-2 dark:bg-blue dark:hover:bg-black-700 focus:outline-none dark:focus:ring-blue-800">Follow</button>
 
     
 
