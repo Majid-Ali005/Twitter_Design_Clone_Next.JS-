@@ -1,4 +1,5 @@
-import Link from 'next/link'
+import Link from 'next/link';
+
 
 
 const LeftSide = () => {
@@ -19,12 +20,12 @@ const LeftSide = () => {
     <div className="ml-[120px] fixed">
        <div className='inline-block mb-2 ml-[-10px]'>
          <img src="https://static.thenounproject.com/png/3574480-200.png" width={42} height={42} className='inline-block'/>
-       <Link href="/dashboard" className='ml-[5px] mb-[50px]'>Home</Link>
+       <Link href="/Explore" className='ml-[5px] mb-[50px]'>Home</Link>
        </div>
        <br />
        <div className='inline-block mb-3'>
          <img src="https://static.thenounproject.com/png/5209-200.png" width={25} height={25} className='inline-block'/>
-       <Link href="/dashboard" className='ml-[6px] mb-[50px]'>Explore</Link>
+       <Link href="/explore/page" className='ml-[6px] mb-[50px]'>Explore</Link>
        </div>
        <br />
        <div className='inline-block mb-3'>

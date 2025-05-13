@@ -29,7 +29,7 @@ const RightSide = () => {
                     <div className="ml-5 mt-3  mt-[65px] text-sm/8 absolute">
                         <p>Trends in World 12  </p>
 
-                        <p className="mt-[-15px]"> #newgraduated</p>
+                        <p className="mt-[-15px] font-bold"> #newgraduated</p>
 
                         <p className="mt-[-15px]"> 15222 Tweets</p>
 
@@ -45,7 +45,7 @@ const RightSide = () => {
                     <div className="ml-5 mt-3  mt-[65px] text-sm/8 absolute">
                         <p>Trends in World 12  </p>
 
-                        <p className="mt-[-15px]"> #newgraduated</p>
+                        <p className="mt-[-15px] font-bold"> #newgraduated</p>
 
                         <p className="mt-[-15px]"> 15222 Tweets</p>
 
@@ -62,7 +62,7 @@ const RightSide = () => {
                     <div className="ml-5 mt-3  mt-[65px] text-sm/8 absolute">
                         <p>Trends in World 12  </p>
 
-                        <p className="mt-[-15px]"> #newgraduated</p>
+                        <p className="mt-[-15px] font-bold"> #newgraduated</p>
 
                         <p className="mt-[-15px]"> 15222 Tweets</p>
 
@@ -92,7 +92,7 @@ const RightSide = () => {
                         />
 
                         <div className="ml-[50px] mt-[-42px]">
-                            <p>Majid Ali</p>
+                            <p className="font-bold">Majid Ali</p>
                             <p>@majidali</p>
                         </div>
                         <button type="button" className=" ml-[190px] mt-[-50px] absolute text-white bg-indigo-500 hover:bg-black-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-5 py-1.5 me-2 mb-2 dark:bg-black dark:hover:bg-black-700 focus:outline-none dark:focus:ring-blue-800">Follow</button>

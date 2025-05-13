@@ -44,7 +44,7 @@ className="ml-4"
     className="ml-[25px] mt-[30px]  inline-block"
     />
 
-    <button type="button" className=" ml-[500px] mt-5 absolute text-white bg-indigo-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-5 py-1.5 me-2 mb-2 dark:bg-blue dark:hover:bg-black-700 focus:outline-none dark:focus:ring-blue-800">Follow</button>
+    <button type="button" className=" ml-[500px] mt-5 absolute text-white bg-indigo-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-4xl text-sm px-5 py-1.5 me-2 mb-2 dark:bg-blue-500 dark:hover:bg-black-700 focus:outline-none dark:focus:ring-blue-800">Follow</button>
 
     
 
@@ -55,7 +55,7 @@ className="ml-4"
 <div className="mt-[56px] w-[860px] h-[100px] border-b-1 border-gray-300">
 
 <img 
-src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLkwYOYvCNBnft5B86IBz8AN_7SmAeF_B3fHQy6x0IIzVbkBxAVeZJNSGCV-xhfPMzBI&usqp=CAU"
 width={50}
 className="ml-4 mt-[-50px]"
 />
@@ -97,12 +97,12 @@ className="ml-4 mt-[-50px]"
 
 <div className="mt-[56px] w-[860px] h-auto border-b-1 border-l-1 border-r-1 border-gray-300">
   <img 
-src="https://img.freepik.com/premium-vector/man-professional-business-casual-young-avatar-icon-illustration_1277826-623.jpg"
+src="https://img.freepik.com/premium-vector/portrait-young-man-with-beard-hair-style-male-avatar-vector-illustration_266660-423.jpg"
 width={50}
 className="ml-4 mt-[-50px]"
 />
 
-    <h1 className="ml-[75px] font-bold mt-[-45px]">What's happening 1</h1>
+    <h1 className="ml-[75px] font-bold mt-[-45px]">Majid Ali</h1>
     <p className="ml-[75px] mb-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque, cupiditate?</p>
 
 <center>
