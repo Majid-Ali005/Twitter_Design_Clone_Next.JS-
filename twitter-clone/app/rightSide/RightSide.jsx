@@ -6,9 +6,9 @@ const RightSide = () => {
         <>
             <div className=" fixed float-right ml-[1250px] mt-[-125] ">
                 <img src="https://static-00.iconduck.com/assets.00/search-icon-2048x2048-cmujl7en.png"
-                    width={20}
-                    height={20}
-                    className="mt-[10px] ml-2 absolute z-50"
+                    width={15}
+                    height={15}
+                    className="mt-[12px] ml-3 absolute z-50"
                 />
 
                 <input type="text" placeholder="Search Twitter" className="bg-gray-300 px-[40px] py-2 rounded-4xl relative" />

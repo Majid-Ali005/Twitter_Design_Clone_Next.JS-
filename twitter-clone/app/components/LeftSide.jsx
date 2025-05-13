@@ -25,7 +25,7 @@ const LeftSide = () => {
        <br />
        <div className='inline-block mb-3'>
          <img src="https://static.thenounproject.com/png/5209-200.png" width={25} height={25} className='inline-block'/>
-       <Link href="/explore/page" className='ml-[6px] mb-[50px]'>Explore</Link>
+       <Link href="/blog" className='ml-[6px] mb-[50px]'>Explore</Link>
        </div>
        <br />
        <div className='inline-block mb-3'>
